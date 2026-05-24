@@ -1,4 +1,6 @@
-# x86_64 builds
+## A guide to build and install projectm for x86 and x86_64 on Haiku OS 
+
+### x86_64 builds
 ```
 git clone https://github.com/projectM-visualizer/projectm.git projectm
 cd projectm
@@ -17,7 +19,7 @@ cmake --build . -- -j4
 #cmake --build . --target install
 ```
 
-# x86 builds
+### x86 builds
 ```
 git clone https://github.com/projectM-visualizer/projectm.git projectm
 cd projectm
